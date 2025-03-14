@@ -50,4 +50,6 @@ The most frequently referred departments include:
 - **Resource Allocation:** Adjusting staffing during high-demand hours can boost efficiency.  
 - **Referral Optimization:** Understanding departmental demands helps in prioritizing resources effectively.  
 
-This dashboard provides a comprehensive overview of the Emergency Room's performance, identifying key areas for improvement and efficiency enhancement.  
+This dashboard provides a comprehensive overview of the Emergency Room's performance, identifying key areas for improvement and efficiency enhancement.
+![image](https://github.com/user-attachments/assets/3ee1b7c1-3b5b-476d-894e-e71153d47e79)
+
